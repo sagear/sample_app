@@ -234,9 +234,11 @@ DEPENDENCIES
   spring-watcher-listen (= 2.0.1)
   sqlite3 (= 1.4.1)
   turbolinks (= 5.2.0)
-  tzinfo-data
   uglifier (= 4.1.20)
   web-console (= 3.7.0)
+
+RUBY VERSION
+   ruby 2.5.3p105
 
 BUNDLED WITH
    2.0.1
