@@ -17,6 +17,8 @@ gem 'jquery-rails',                    '4.3.5'
 gem 'faker',                           '1.9.6'
 gem 'will_paginate',                   '3.1.7'
 gem 'bootstrap-will_paginate'  ,       '1.0.0'
+gem 'sendgrid-ruby',                   '6.0.0'
+gem 'sendgrid',                        '1.2.4'
 group :development, :test do
   gem 'sqlite3',                       '1.4.1'
   gem 'byebug',                        '11.0.1',platforms: [:mri, :mingw, :x64_mingw]
